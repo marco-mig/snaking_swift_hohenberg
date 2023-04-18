@@ -1,0 +1,10 @@
+
+#===============
+# AUTO Demo sh-half
+#===============
+
+pgm="sh-half"
+
+print "\n***Clean the directory***"
+dl(pgm)
+cl()
